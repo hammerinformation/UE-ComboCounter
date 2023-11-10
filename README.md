@@ -7,7 +7,9 @@ class ComboCounter{}
 
 ```
 
-![ComboGif](https://github.com/hammerinformation/UE-ComboCounter/assets/51826786/15914976-657a-4235-977f-cf31f8d791ee)
+
+![ComboGif](https://github.com/hammerinformation/UE-ComboCounter/assets/51826786/55df6d79-1acd-4bbb-a352-9a408050427f)
+
 
 
 
